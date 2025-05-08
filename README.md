@@ -9,7 +9,6 @@ Cette application de bureau développée en **C#** permet la gestion du personne
 - Ajouter un employé
 - Modifier les informations d’un employé existant
 - Supprimer un employé
-- Rechercher des employés
 - Afficher la liste complète du personnel
 
 ## Technologies utilisées
@@ -27,13 +26,14 @@ Cette application de bureau développée en **C#** permet la gestion du personne
 
 ## Structure de la base de données
 
-Voici un exemple de script SQL pour créer la table `Employes` :
+Voici un exemple de script SQL pour créer la table `personne` :
 
 ```sql
-CREATE TABLE Employes (
-    Id INT PRIMARY KEY IDENTITY(1,1),
-    Nom NVARCHAR(100),
-    Prenom NVARCHAR(100),
-    Poste NVARCHAR(100),
-    DateEmbauche DATE
+create table personne
+(
+	idP bigint identity(1,1) not null,
+	nom varchar(50) not null,
+	postnom varchar(50),
+	prenom varchar(50),
+	sexe varchar(1) default 'M' not null
 );
