@@ -1,0 +1,39 @@
+# Application de Gestion de Personnel
+
+## Présentation
+
+Cette application de bureau développée en **C#** permet la gestion du personnel d'une entreprise. Elle s'appuie sur une base de données **SQL Server** pour stocker les informations des employés. L'interface utilisateur permet d'ajouter, modifier, supprimer et consulter les employés de manière simple et intuitive.
+
+## Fonctionnalités principales
+
+- Ajouter un employé
+- Modifier les informations d’un employé existant
+- Supprimer un employé
+- Rechercher des employés
+- Afficher la liste complète du personnel
+
+## Technologies utilisées
+
+- **Langage** : C#
+- **Framework** : .NET (Windows Forms ou WPF)
+- **Base de données** : SQL Server
+- **IDE** : Visual Studio
+
+## Prérequis
+
+- Visual Studio 2019 ou plus récent
+- .NET Desktop Runtime (selon le framework utilisé)
+- SQL Server (local ou distant)
+
+## Structure de la base de données
+
+Voici un exemple de script SQL pour créer la table `Employes` :
+
+```sql
+CREATE TABLE Employes (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Nom NVARCHAR(100),
+    Prenom NVARCHAR(100),
+    Poste NVARCHAR(100),
+    DateEmbauche DATE
+);
