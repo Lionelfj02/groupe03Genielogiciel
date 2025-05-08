@@ -60,6 +60,7 @@ namespace GestionPersonne
             btPhone.ForeColor = defaultForeColor;
             btAdd.BackColor = defaultBackColor;
             btAdd.ForeColor = defaultForeColor;
+            Personnes.interfaces.AfficherPersonnes("");
             if (!ControlerUser.Controls.Contains(Personnes.interfaces))
             {
                 ControlerUser.Controls.Add(Personnes.interfaces);
@@ -80,6 +81,7 @@ namespace GestionPersonne
             btPhone.ForeColor = activeForeColor;
             btAdd.BackColor = defaultBackColor;
             btAdd.ForeColor = defaultForeColor;
+            Telephones.interfaces.AfficherTelephone("");
             if (!ControlerUser.Controls.Contains(Telephones.interfaces))
             {
                 ControlerUser.Controls.Add(Telephones.interfaces);
@@ -100,6 +102,7 @@ namespace GestionPersonne
             btPhone.ForeColor = defaultForeColor;
             btAdd.BackColor = activeBackColor;
             btAdd.ForeColor = activeForeColor;
+            Adresses.interfaces.AfficherAdresses("");
             if (!ControlerUser.Controls.Contains(Adresses.interfaces))
             {
                 ControlerUser.Controls.Add(Adresses.interfaces);
@@ -119,7 +122,10 @@ namespace GestionPersonne
                 btRestore.Enabled = true;
                 File.Delete(configFilePath);
                 MessageBox.Show("Configuration Restorer Avec Succee","Configuration",MessageBoxButtons.OK,MessageBoxIcon.Information);
-                Application.Exit();
+                this.Hide();
+                ServerConfig confi = new ServerConfig();
+                confi.ShowDialog();
+
             }
         }
 

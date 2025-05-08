@@ -29,10 +29,10 @@ namespace GestionPersonne.UserControls
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
             this.btSup = new System.Windows.Forms.Button();
             this.btAdd = new System.Windows.Forms.Button();
             this.btMod = new System.Windows.Forms.Button();
@@ -60,7 +60,6 @@ namespace GestionPersonne.UserControls
             this.comboCountry = new System.Windows.Forms.ComboBox();
             this.label7 = new System.Windows.Forms.Label();
             this.btPrint = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.tableAddress)).BeginInit();
             this.SuspendLayout();
             // 
@@ -74,7 +73,7 @@ namespace GestionPersonne.UserControls
             this.btSup.Font = new System.Drawing.Font("Arial Rounded MT Bold", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btSup.ForeColor = System.Drawing.Color.White;
             this.btSup.Location = new System.Drawing.Point(1019, 191);
-            this.btSup.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSup.Margin = new System.Windows.Forms.Padding(4);
             this.btSup.Name = "btSup";
             this.btSup.Size = new System.Drawing.Size(348, 55);
             this.btSup.TabIndex = 78;
@@ -92,7 +91,7 @@ namespace GestionPersonne.UserControls
             this.btAdd.Font = new System.Drawing.Font("Arial Rounded MT Bold", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btAdd.ForeColor = System.Drawing.Color.White;
             this.btAdd.Location = new System.Drawing.Point(1019, 43);
-            this.btAdd.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btAdd.Margin = new System.Windows.Forms.Padding(4);
             this.btAdd.Name = "btAdd";
             this.btAdd.Size = new System.Drawing.Size(348, 55);
             this.btAdd.TabIndex = 76;
@@ -110,7 +109,7 @@ namespace GestionPersonne.UserControls
             this.btMod.Font = new System.Drawing.Font("Arial Rounded MT Bold", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btMod.ForeColor = System.Drawing.Color.White;
             this.btMod.Location = new System.Drawing.Point(1019, 117);
-            this.btMod.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btMod.Margin = new System.Windows.Forms.Padding(4);
             this.btMod.Name = "btMod";
             this.btMod.Size = new System.Drawing.Size(348, 55);
             this.btMod.TabIndex = 77;
@@ -135,10 +134,10 @@ namespace GestionPersonne.UserControls
             // 
             this.tableAddress.AllowUserToAddRows = false;
             this.tableAddress.AllowUserToDeleteRows = false;
-            dataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle5.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.Black;
-            this.tableAddress.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle5;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.Black;
+            this.tableAddress.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
             this.tableAddress.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
@@ -146,14 +145,14 @@ namespace GestionPersonne.UserControls
             this.tableAddress.BackgroundColor = System.Drawing.SystemColors.Control;
             this.tableAddress.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.tableAddress.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
-            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            dataGridViewCellStyle6.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle6.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.tableAddress.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle6;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.tableAddress.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
             this.tableAddress.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.tableAddress.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.num,
@@ -165,28 +164,28 @@ namespace GestionPersonne.UserControls
             this.com,
             this.city,
             this.country});
-            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle7.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle7.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle7.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle7.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(69)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.tableAddress.DefaultCellStyle = dataGridViewCellStyle7;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(69)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.tableAddress.DefaultCellStyle = dataGridViewCellStyle3;
             this.tableAddress.EnableHeadersVisualStyles = false;
             this.tableAddress.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.tableAddress.Location = new System.Drawing.Point(9, 332);
-            this.tableAddress.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tableAddress.Margin = new System.Windows.Forms.Padding(4);
             this.tableAddress.MultiSelect = false;
             this.tableAddress.Name = "tableAddress";
             this.tableAddress.ReadOnly = true;
             this.tableAddress.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.tableAddress.RowHeadersVisible = false;
             this.tableAddress.RowHeadersWidth = 51;
-            dataGridViewCellStyle8.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle8.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle8.ForeColor = System.Drawing.Color.Black;
-            this.tableAddress.RowsDefaultCellStyle = dataGridViewCellStyle8;
+            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle4.ForeColor = System.Drawing.Color.Black;
+            this.tableAddress.RowsDefaultCellStyle = dataGridViewCellStyle4;
             this.tableAddress.RowTemplate.Height = 30;
             this.tableAddress.RowTemplate.Resizable = System.Windows.Forms.DataGridViewTriState.False;
             this.tableAddress.Size = new System.Drawing.Size(1357, 450);
@@ -273,7 +272,7 @@ namespace GestionPersonne.UserControls
             "Sql Server",
             "MySql"});
             this.ListePersonnes.Location = new System.Drawing.Point(9, 103);
-            this.ListePersonnes.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.ListePersonnes.Margin = new System.Windows.Forms.Padding(4);
             this.ListePersonnes.Name = "ListePersonnes";
             this.ListePersonnes.Size = new System.Drawing.Size(441, 42);
             this.ListePersonnes.TabIndex = 85;
@@ -293,7 +292,7 @@ namespace GestionPersonne.UserControls
             // 
             this.txtAv.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F);
             this.txtAv.Location = new System.Drawing.Point(9, 183);
-            this.txtAv.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtAv.Margin = new System.Windows.Forms.Padding(4);
             this.txtAv.Name = "txtAv";
             this.txtAv.Size = new System.Drawing.Size(441, 42);
             this.txtAv.TabIndex = 86;
@@ -324,7 +323,7 @@ namespace GestionPersonne.UserControls
             // 
             this.txtQ.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F);
             this.txtQ.Location = new System.Drawing.Point(9, 270);
-            this.txtQ.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtQ.Margin = new System.Windows.Forms.Padding(4);
             this.txtQ.Name = "txtQ";
             this.txtQ.Size = new System.Drawing.Size(441, 42);
             this.txtQ.TabIndex = 88;
@@ -344,7 +343,7 @@ namespace GestionPersonne.UserControls
             // 
             this.txtCom.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F);
             this.txtCom.Location = new System.Drawing.Point(477, 103);
-            this.txtCom.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtCom.Margin = new System.Windows.Forms.Padding(4);
             this.txtCom.Name = "txtCom";
             this.txtCom.Size = new System.Drawing.Size(441, 42);
             this.txtCom.TabIndex = 90;
@@ -364,7 +363,7 @@ namespace GestionPersonne.UserControls
             // 
             this.txtVi.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F);
             this.txtVi.Location = new System.Drawing.Point(477, 183);
-            this.txtVi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtVi.Margin = new System.Windows.Forms.Padding(4);
             this.txtVi.Name = "txtVi";
             this.txtVi.Size = new System.Drawing.Size(441, 42);
             this.txtVi.TabIndex = 92;
@@ -377,7 +376,7 @@ namespace GestionPersonne.UserControls
             "Sql Server",
             "MySql"});
             this.comboCountry.Location = new System.Drawing.Point(477, 270);
-            this.comboCountry.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.comboCountry.Margin = new System.Windows.Forms.Padding(4);
             this.comboCountry.Name = "comboCountry";
             this.comboCountry.Size = new System.Drawing.Size(441, 42);
             this.comboCountry.TabIndex = 95;
@@ -403,7 +402,7 @@ namespace GestionPersonne.UserControls
             this.btPrint.Font = new System.Drawing.Font("Arial Rounded MT Bold", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btPrint.ForeColor = System.Drawing.Color.White;
             this.btPrint.Location = new System.Drawing.Point(1019, 262);
-            this.btPrint.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btPrint.Margin = new System.Windows.Forms.Padding(4);
             this.btPrint.Name = "btPrint";
             this.btPrint.Size = new System.Drawing.Size(348, 55);
             this.btPrint.TabIndex = 96;
@@ -411,29 +410,10 @@ namespace GestionPersonne.UserControls
             this.btPrint.UseVisualStyleBackColor = false;
             this.btPrint.Click += new System.EventHandler(this.btPrint_Click);
             // 
-            // button1
-            // 
-            this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.Black;
-            this.button1.FlatAppearance.BorderSize = 2;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Image = global::GestionPersonne.Properties.Resources.icons8_update_50px_1;
-            this.button1.Location = new System.Drawing.Point(943, 262);
-            this.button1.Margin = new System.Windows.Forms.Padding(4);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(68, 55);
-            this.button1.TabIndex = 97;
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
             // Adresses
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.btPrint);
             this.Controls.Add(this.comboCountry);
             this.Controls.Add(this.label7);
@@ -452,7 +432,7 @@ namespace GestionPersonne.UserControls
             this.Controls.Add(this.btAdd);
             this.Controls.Add(this.btMod);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Adresses";
             this.Size = new System.Drawing.Size(1371, 786);
             this.Load += new System.EventHandler(this.Adresses_Load);
@@ -490,6 +470,5 @@ namespace GestionPersonne.UserControls
         private System.Windows.Forms.ComboBox comboCountry;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Button btPrint;
-        private System.Windows.Forms.Button button1;
     }
 }

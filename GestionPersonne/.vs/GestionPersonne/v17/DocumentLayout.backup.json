@@ -1,49 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\",
+  "WorkspaceRootPath": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|c:\\users\\malia\\documents\\gestionpersonne\\gestionpersonne\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|d:\\examen genielogicel\\groupe03genielogiciel\\gestionpersonne\\gestionpersonne\\rapports\\listepersonnes.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\rapports\\listepersonnes.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|c:\\users\\malia\\documents\\gestionpersonne\\gestionpersonne\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|d:\\examen genielogicel\\groupe03genielogiciel\\gestionpersonne\\gestionpersonne\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|c:\\users\\malia\\documents\\gestionpersonne\\gestionpersonne\\serverconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\serverconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\gestionpersonne\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|c:\\users\\malia\\documents\\gestionpersonne\\gestionpersonne\\serverconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\serverconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|d:\\examen genielogicel\\groupe03genielogiciel\\gestionpersonne\\gestionpersonne\\usercontrols\\personnes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\usercontrols\\personnes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|c:\\users\\malia\\documents\\gestionpersonne\\gestionpersonne\\usercontrols\\telephones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\usercontrols\\telephones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|c:\\users\\malia\\documents\\gestionpersonne\\gestionpersonne\\modals\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\modals\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|c:\\users\\malia\\documents\\gestionpersonne\\gestionpersonne\\usercontrols\\telephones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\usercontrols\\telephones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|c:\\users\\malia\\documents\\gestionpersonne\\gestionpersonne\\usercontrols\\adresses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\usercontrols\\adresses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|c:\\users\\malia\\documents\\gestionpersonne\\gestionpersonne\\usercontrols\\adresses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\usercontrols\\adresses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|c:\\users\\malia\\documents\\gestionpersonne\\gestionpersonne\\usercontrols\\personnes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\gestionpersonne\\usercontrols\\personnes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\usercontrols\\personnes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|c:\\users\\malia\\documents\\gestionpersonne\\gestionpersonne\\modals\\previewrapport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\gestionpersonne\\usercontrols\\adresses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\usercontrols\\adresses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\gestionpersonne\\usercontrols\\adresses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\usercontrols\\adresses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\gestionpersonne\\usercontrols\\telephones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\usercontrols\\telephones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\gestionpersonne\\usercontrols\\telephones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\usercontrols\\telephones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\gestionpersonne\\serverconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\serverconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\gestionpersonne\\serverconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\serverconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\gestionpersonne\\modals\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\modals\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\gestionpersonne\\modals\\previewrapport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DE59469C-02F3-484A-B0FE-A49780A6ED73}|GestionPersonne\\GestionPersonne.csproj|solutionrelative:gestionpersonne\\modals\\previewrapport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -54,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,50 +70,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "ListePersonnes.rdlc",
+              "DocumentMoniker": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\Rapports\\ListePersonnes.rdlc",
+              "RelativeDocumentMoniker": "GestionPersonne\\Rapports\\ListePersonnes.rdlc",
+              "ToolTip": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\Rapports\\ListePersonnes.rdlc",
+              "RelativeToolTip": "GestionPersonne\\Rapports\\ListePersonnes.rdlc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-05-08T14:38:30.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personnes.cs",
+              "DocumentMoniker": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\UserControls\\Personnes.cs",
+              "RelativeDocumentMoniker": "GestionPersonne\\UserControls\\Personnes.cs",
+              "ToolTip": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\UserControls\\Personnes.cs",
+              "RelativeToolTip": "GestionPersonne\\UserControls\\Personnes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:30:41.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Adresses.cs",
-              "DocumentMoniker": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\UserControls\\Adresses.cs",
+              "DocumentMoniker": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\UserControls\\Adresses.cs",
               "RelativeDocumentMoniker": "GestionPersonne\\UserControls\\Adresses.cs",
-              "ToolTip": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\UserControls\\Adresses.cs",
+              "ToolTip": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\UserControls\\Adresses.cs",
               "RelativeToolTip": "GestionPersonne\\UserControls\\Adresses.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAAAFgBAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAwwIkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T15:07:46.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Telephones.cs",
-              "DocumentMoniker": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\UserControls\\Telephones.cs",
-              "RelativeDocumentMoniker": "GestionPersonne\\UserControls\\Telephones.cs",
-              "ToolTip": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\UserControls\\Telephones.cs",
-              "RelativeToolTip": "GestionPersonne\\UserControls\\Telephones.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGABAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T14:55:05.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\Menu.cs",
-              "RelativeDocumentMoniker": "GestionPersonne\\Menu.cs",
-              "ToolTip": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\Menu.cs*",
-              "RelativeToolTip": "GestionPersonne\\Menu.cs*",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAkwHUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T14:48:22.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Telephones.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\UserControls\\Telephones.cs",
+              "DocumentMoniker": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\UserControls\\Telephones.cs",
               "RelativeDocumentMoniker": "GestionPersonne\\UserControls\\Telephones.cs",
-              "ToolTip": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\UserControls\\Telephones.cs [Design]",
+              "ToolTip": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\UserControls\\Telephones.cs [Design]",
               "RelativeToolTip": "GestionPersonne\\UserControls\\Telephones.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T14:47:20.413Z",
@@ -113,23 +121,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Menu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\Menu.cs",
+              "DocumentMoniker": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\Menu.cs",
               "RelativeDocumentMoniker": "GestionPersonne\\Menu.cs",
-              "ToolTip": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\Menu.cs [Design]*",
-              "RelativeToolTip": "GestionPersonne\\Menu.cs [Design]*",
+              "ToolTip": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\Menu.cs [Design]",
+              "RelativeToolTip": "GestionPersonne\\Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T14:44:35.416Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "ServerConfig.cs",
-              "DocumentMoniker": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\ServerConfig.cs",
+              "DocumentMoniker": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\ServerConfig.cs",
               "RelativeDocumentMoniker": "GestionPersonne\\ServerConfig.cs",
-              "ToolTip": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\ServerConfig.cs",
+              "ToolTip": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\ServerConfig.cs",
               "RelativeToolTip": "GestionPersonne\\ServerConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,11 +146,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Adresses.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\UserControls\\Adresses.cs",
+              "DocumentMoniker": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\UserControls\\Adresses.cs",
               "RelativeDocumentMoniker": "GestionPersonne\\UserControls\\Adresses.cs",
-              "ToolTip": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\UserControls\\Adresses.cs [Design]",
+              "ToolTip": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\UserControls\\Adresses.cs [Design]",
               "RelativeToolTip": "GestionPersonne\\UserControls\\Adresses.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T14:45:15.364Z",
@@ -150,11 +158,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Auth.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\Modals\\Auth.cs",
+              "DocumentMoniker": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\Modals\\Auth.cs",
               "RelativeDocumentMoniker": "GestionPersonne\\Modals\\Auth.cs",
-              "ToolTip": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\Modals\\Auth.cs [Design]",
+              "ToolTip": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\Modals\\Auth.cs [Design]",
               "RelativeToolTip": "GestionPersonne\\Modals\\Auth.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T14:43:27.791Z",
@@ -162,23 +170,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServerConfig.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\ServerConfig.cs",
-              "RelativeDocumentMoniker": "GestionPersonne\\ServerConfig.cs",
-              "ToolTip": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\ServerConfig.cs [Design]",
-              "RelativeToolTip": "GestionPersonne\\ServerConfig.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\Menu.cs",
+              "RelativeDocumentMoniker": "GestionPersonne\\Menu.cs",
+              "ToolTip": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\Menu.cs",
+              "RelativeToolTip": "GestionPersonne\\Menu.cs",
+              "ViewState": "AgIAAGIAAADgOI7jAAAmwG4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T23:20:07.551Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-30T14:48:22.617Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Personnes.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\UserControls\\Personnes.cs",
+              "DocumentMoniker": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\UserControls\\Personnes.cs",
               "RelativeDocumentMoniker": "GestionPersonne\\UserControls\\Personnes.cs",
-              "ToolTip": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\UserControls\\Personnes.cs [Design]",
+              "ToolTip": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\UserControls\\Personnes.cs [Design]",
               "RelativeToolTip": "GestionPersonne\\UserControls\\Personnes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T14:46:39.999Z",
@@ -186,11 +195,36 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Telephones.cs",
+              "DocumentMoniker": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\UserControls\\Telephones.cs",
+              "RelativeDocumentMoniker": "GestionPersonne\\UserControls\\Telephones.cs",
+              "ToolTip": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\UserControls\\Telephones.cs",
+              "RelativeToolTip": "GestionPersonne\\UserControls\\Telephones.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAAKcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:55:05.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "ServerConfig.cs [Design]",
+              "DocumentMoniker": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\ServerConfig.cs",
+              "RelativeDocumentMoniker": "GestionPersonne\\ServerConfig.cs",
+              "ToolTip": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\ServerConfig.cs [Design]",
+              "RelativeToolTip": "GestionPersonne\\ServerConfig.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:20:07.551Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "PreviewRapport.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\Modals\\PreviewRapport.cs",
+              "DocumentMoniker": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\Modals\\PreviewRapport.cs",
               "RelativeDocumentMoniker": "GestionPersonne\\Modals\\PreviewRapport.cs",
-              "ToolTip": "C:\\Users\\MALIA\\Documents\\GestionPersonne\\GestionPersonne\\Modals\\PreviewRapport.cs [Design]",
+              "ToolTip": "D:\\Examen GenieLogicel\\groupe03Genielogiciel\\GestionPersonne\\GestionPersonne\\Modals\\PreviewRapport.cs [Design]",
               "RelativeToolTip": "GestionPersonne\\Modals\\PreviewRapport.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T23:31:33.48Z",

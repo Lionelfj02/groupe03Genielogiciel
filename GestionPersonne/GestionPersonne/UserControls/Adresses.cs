@@ -135,6 +135,7 @@ namespace GestionPersonne.UserControls
                     con.Open();
                     if (con.State == ConnectionState.Open)
                     {
+                        RemplirePersonne();
                         tableAddress.Rows.Clear();
                         cmd = new SqlCommand(proc, con);
                         cmd.CommandType = CommandType.StoredProcedure;
@@ -371,10 +372,6 @@ namespace GestionPersonne.UserControls
             }
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            AfficherAdresses("");
-            RemplirePersonne();
-        }
+        
     }
 }

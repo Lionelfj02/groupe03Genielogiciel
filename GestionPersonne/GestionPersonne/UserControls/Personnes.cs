@@ -86,7 +86,7 @@ namespace GestionPersonne.UserControls
                         {
                             try
                             {
-                                tablePerson.Rows.Add(num, dataReader.GetValue(0), dataReader.GetString(3), dataReader.GetString(2), dataReader.GetString(1), dataReader.GetString(4));
+                                tablePerson.Rows.Add(num, dataReader.GetValue(0), dataReader.GetString(1), dataReader.GetString(2), dataReader.GetString(3), dataReader.GetString(4));
                                 num++;
                             }
                             catch (Exception sqlEx)
