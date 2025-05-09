@@ -11,6 +11,7 @@ Cette application de bureau développée en **C#** permet la gestion du personne
 - Supprimer un employé
 - Afficher la liste complète du personnel
 - recherche
+- Connexion
 
 ## Technologies utilisées
 
