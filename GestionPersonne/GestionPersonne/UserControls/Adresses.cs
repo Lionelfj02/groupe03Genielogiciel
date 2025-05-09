@@ -372,6 +372,16 @@ namespace GestionPersonne.UserControls
             }
         }
 
-        
+        private void txtSearch_TextChanged(object sender, EventArgs e)
+        {
+            if (txtSearch.Text == "")
+            {
+                AfficherAdresses("");
+            }
+            else
+            {
+                AfficherAdresses(txtSearch.Text);
+            }
+        }
     }
 }

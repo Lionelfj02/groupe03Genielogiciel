@@ -44,7 +44,7 @@ namespace GestionPersonne
         }
         private void btExit_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Application.Exit();
         }
 
         private void SaveConnectionInfo()

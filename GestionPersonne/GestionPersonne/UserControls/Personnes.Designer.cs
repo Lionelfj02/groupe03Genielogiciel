@@ -52,6 +52,8 @@ namespace GestionPersonne.UserControls
             this.btAdd = new System.Windows.Forms.Button();
             this.btMod = new System.Windows.Forms.Button();
             this.btSup = new System.Windows.Forms.Button();
+            this.txtSearch = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.tablePerson)).BeginInit();
             this.SuspendLayout();
             // 
@@ -110,7 +112,7 @@ namespace GestionPersonne.UserControls
             this.tablePerson.EnableHeadersVisualStyles = false;
             this.tablePerson.GridColor = System.Drawing.Color.Black;
             this.tablePerson.Location = new System.Drawing.Point(4, 345);
-            this.tablePerson.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tablePerson.Margin = new System.Windows.Forms.Padding(4);
             this.tablePerson.MultiSelect = false;
             this.tablePerson.Name = "tablePerson";
             this.tablePerson.ReadOnly = true;
@@ -175,7 +177,7 @@ namespace GestionPersonne.UserControls
             // 
             this.txtname.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtname.Location = new System.Drawing.Point(9, 116);
-            this.txtname.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtname.Margin = new System.Windows.Forms.Padding(4);
             this.txtname.Name = "txtname";
             this.txtname.Size = new System.Drawing.Size(441, 42);
             this.txtname.TabIndex = 30;
@@ -206,7 +208,7 @@ namespace GestionPersonne.UserControls
             // 
             this.txtpost.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtpost.Location = new System.Drawing.Point(500, 116);
-            this.txtpost.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtpost.Margin = new System.Windows.Forms.Padding(4);
             this.txtpost.Name = "txtpost";
             this.txtpost.Size = new System.Drawing.Size(441, 42);
             this.txtpost.TabIndex = 32;
@@ -226,7 +228,7 @@ namespace GestionPersonne.UserControls
             // 
             this.txtpre.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtpre.Location = new System.Drawing.Point(9, 225);
-            this.txtpre.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtpre.Margin = new System.Windows.Forms.Padding(4);
             this.txtpre.Name = "txtpre";
             this.txtpre.Size = new System.Drawing.Size(441, 42);
             this.txtpre.TabIndex = 34;
@@ -239,7 +241,7 @@ namespace GestionPersonne.UserControls
             "F",
             "M"});
             this.txtSex.Location = new System.Drawing.Point(500, 226);
-            this.txtSex.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtSex.Margin = new System.Windows.Forms.Padding(4);
             this.txtSex.Name = "txtSex";
             this.txtSex.Size = new System.Drawing.Size(441, 42);
             this.txtSex.TabIndex = 36;
@@ -265,7 +267,7 @@ namespace GestionPersonne.UserControls
             this.btAdd.Font = new System.Drawing.Font("Arial Rounded MT Bold", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btAdd.ForeColor = System.Drawing.Color.White;
             this.btAdd.Location = new System.Drawing.Point(1019, 64);
-            this.btAdd.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btAdd.Margin = new System.Windows.Forms.Padding(4);
             this.btAdd.Name = "btAdd";
             this.btAdd.Size = new System.Drawing.Size(348, 55);
             this.btAdd.TabIndex = 38;
@@ -283,7 +285,7 @@ namespace GestionPersonne.UserControls
             this.btMod.Font = new System.Drawing.Font("Arial Rounded MT Bold", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btMod.ForeColor = System.Drawing.Color.White;
             this.btMod.Location = new System.Drawing.Point(1019, 138);
-            this.btMod.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btMod.Margin = new System.Windows.Forms.Padding(4);
             this.btMod.Name = "btMod";
             this.btMod.Size = new System.Drawing.Size(348, 55);
             this.btMod.TabIndex = 39;
@@ -301,7 +303,7 @@ namespace GestionPersonne.UserControls
             this.btSup.Font = new System.Drawing.Font("Arial Rounded MT Bold", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btSup.ForeColor = System.Drawing.Color.White;
             this.btSup.Location = new System.Drawing.Point(1019, 212);
-            this.btSup.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSup.Margin = new System.Windows.Forms.Padding(4);
             this.btSup.Name = "btSup";
             this.btSup.Size = new System.Drawing.Size(348, 55);
             this.btSup.TabIndex = 40;
@@ -309,10 +311,33 @@ namespace GestionPersonne.UserControls
             this.btSup.UseVisualStyleBackColor = false;
             this.btSup.Click += new System.EventHandler(this.btSup_Click);
             // 
+            // txtSearch
+            // 
+            this.txtSearch.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtSearch.Font = new System.Drawing.Font("Arial Rounded MT Bold", 18F);
+            this.txtSearch.Location = new System.Drawing.Point(1019, 284);
+            this.txtSearch.Name = "txtSearch";
+            this.txtSearch.Size = new System.Drawing.Size(348, 42);
+            this.txtSearch.TabIndex = 41;
+            this.txtSearch.TextChanged += new System.EventHandler(this.txtSearch_TextChanged);
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Arial Rounded MT Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(855, 290);
+            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(157, 32);
+            this.label6.TabIndex = 42;
+            this.label6.Text = "Recherche";
+            // 
             // Personnes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.txtSearch);
             this.Controls.Add(this.btSup);
             this.Controls.Add(this.btMod);
             this.Controls.Add(this.btAdd);
@@ -326,7 +351,7 @@ namespace GestionPersonne.UserControls
             this.Controls.Add(this.txtname);
             this.Controls.Add(this.tablePerson);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Personnes";
             this.Size = new System.Drawing.Size(1371, 786);
             this.Load += new System.EventHandler(this.Personnes_Load);
@@ -357,5 +382,7 @@ namespace GestionPersonne.UserControls
         private System.Windows.Forms.Button btAdd;
         private System.Windows.Forms.Button btMod;
         private System.Windows.Forms.Button btSup;
+        private System.Windows.Forms.TextBox txtSearch;
+        private System.Windows.Forms.Label label6;
     }
 }

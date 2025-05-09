@@ -296,5 +296,17 @@ namespace GestionPersonne.UserControls
                 MessageBox.Show("Veuillez Remplire la Table", "Supprimer", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
+
+        private void txtSearch_TextChanged(object sender, EventArgs e)
+        {
+            if(txtSearch.Text == "")
+            {
+                AfficherPersonnes("");
+            }
+            else
+            {
+                AfficherPersonnes(txtSearch.Text);
+            }
+        }
     }
 }
